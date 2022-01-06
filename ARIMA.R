@@ -95,10 +95,6 @@ plot(WahaFor, xlim=c(7700,7750), main="Pronóstico ARIMA Precio Spot Waha", subm
 ##  ###
 
 
-
-
-
-
 #### El turno del Houston ShipChannel 
 
 #Removiendo outliers con tsclean
